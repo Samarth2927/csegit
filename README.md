@@ -1,7 +1,1 @@
-class first
-{
-public static void main(string args[])
-{
-system.out.print("welcome to git);
-}
-}
+hi sam here from cse
